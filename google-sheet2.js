@@ -41,7 +41,7 @@ $("#ckform").submit(function(event){
         console.log(textStatus);
         console.log(jqXHR);
     //location.reload();
-    //window.location.href = "index.html";
+    window.location.href = "index.html";
     alert("Your prayer has been heard. Praise The Lord!");
 
     });
